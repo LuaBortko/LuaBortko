@@ -3,20 +3,18 @@
 ### 💭 About me:
 - 🔭 I'm currently working on a bank project in C with my friend.
 - 👩🏼‍💻 I'm looking for an intership.
-- 💻 Computer Science Student at FEI (second period).
-- Medium level: HTML, CSS, JavaScript, Python, C.
-- Low level: MongoDB, NodeJS.
+- 💻 Computer Science Student at FEI (fourth period).
+- Medium level: HTML, CSS, JavaScript, Python, C, React, React Native, Assembly, Java.
+- Low level: MongoDB, NodeJS, C++, SQL.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
 ### 📊 GitHub Stats:
 <div style="display: inline_block">
    <a href="https://github.com/LuaBortko">
-        <img height="180m" src="https://github-readme-stats.vercel.app/api?username=LuaBortko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img  height="180m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBortko&layout=compact&theme=dracula" />
-      <img  height="180m" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuaBortko&theme=dracula" />
-      <img  height= "180m" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuaBortko&theme=dracula" /> 
-      
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuaBortko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+      <img  height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBortko&layout=compact&theme=dracula" /><br>
+      <img  height= "180" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuaBortko&theme=dracula" /><br>
    </a>
 </div>
 
