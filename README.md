@@ -1,17 +1,23 @@
 <h2 align="left">Hi 👋!</h2>
-
-###
-
 <p align="left">My name is Luana and I'm a programming student from Brazil.</p>
 
-###
+### 💭 About me:
+
+- 👩🏼‍💻 I'm looking for an intership.
+- 💻 Computer Science Student at FEI (fourth period).
+- Medium level: HTML, CSS, JavaScript, Python, C, React, React Native, Assembly, Java.
+- Low level: MongoDB, NodeJS, C++, SQL.
+- 💕 I love lerning new things and I'm constantly improving my programming skills.
+- Pronouns: She/Her
+
+### 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuaBortko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuaBortko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 👩🏼‍💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -49,12 +55,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LuaBortko/LuaBortko/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="img/a.jfif"  />
 
 ###
