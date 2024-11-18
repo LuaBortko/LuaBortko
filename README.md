@@ -1,30 +1,60 @@
-## Hi, I'm Luana
+<h2 align="left">Hi 👋!</h2>
 
-### 💭 About me:
-- 🔭 I'm currently working on a bank project in C with my friend.
-- 👩🏼‍💻 I'm looking for an intership.
-- 💻 Computer Science Student at FEI (fourth period).
-- Medium level: HTML, CSS, JavaScript, Python, C, React, React Native, Assembly, Java.
-- Low level: MongoDB, NodeJS, C++, SQL.
-- 💕 I love lerning new things and I'm constantly improving my programming skills.
-- Pronouns: She/Her
+###
 
-### 📊 GitHub Stats:
-<div style="display: inline_block">
-   <a href="https://github.com/LuaBortko">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuaBortko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-      <img  height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBortko&layout=compact&theme=dracula" /><br>
-      <img  height= "180" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuaBortko&theme=dracula" /><br>
-   </a>
+<p align="left">My name is Luana and I'm a programming student from Brazil.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuaBortko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuaBortko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 👩🏼‍💻 Tech Stack:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="C" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/luanabortko/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LuaBortko/LuaBortko/output/snake.svg" alt="Snake animation" />
+
+###
