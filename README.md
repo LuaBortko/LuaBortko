@@ -3,7 +3,6 @@
 
 ### 💭 About me:
 
-- 👩🏼‍💻 I'm looking for an intership.
 - 💻 Computer Science Student at FEI (fourth period).
 - Medium level: HTML, CSS, JavaScript, Python, C, React, React Native, Assembly, Java.
 - Low level: MongoDB, NodeJS, C++, SQL.
