@@ -4,8 +4,8 @@
 ### 💭 About me:
 
 - 💻 Computer Science Student at FEI (fourth period).
-- Medium level: HTML, CSS, JavaScript, Python, C, React, React Native, Assembly, Java.
-- Low level: MongoDB, NodeJS, C++, SQL.
+- Medium level: HTML, CSS, JavaScript, Python, C, React, React Native, Assembly, Java, R, C++, SQL.
+- Low level: MongoDB, NodeJS.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
